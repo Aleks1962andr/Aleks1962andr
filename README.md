@@ -4,7 +4,8 @@
 
 I create easy-to-use and modern websites with adaptation for mobile devices, writing clean and neat code. I am results-oriented and get satisfaction from a job well done. I am developing in this area.
 
-Skills: REACT / JS / HTML5 / CSS3 / FIGMA/ GSAP
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=whait"/>  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=whait"/>  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=whait"/>  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=whait"/> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3&logoColor=whait"/>  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=whait"/> 
+
 
 - 🌱 I’m currently learning  learning REACT 
 - 📫 How to reach me: harizma005@gmail.com 
